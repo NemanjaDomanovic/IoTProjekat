@@ -11,7 +11,7 @@ import SwiftUI
 struct IoTProjekatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // Set ContentView as the initial view of the app
         }
     }
 }
